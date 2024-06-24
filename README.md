@@ -12,7 +12,7 @@
 
 ## Description 📝
 The **Connect4** is a **personal project** I did on my own during a study break.  
-Its purpose is to create in [**C**](https://en.wikipedia.org/wiki/C_(programming_language)) a **Connect4 game**.  
+Its purpose is to create in [**C**](https://en.wikipedia.org/wiki/C_(programming_language)) a **connect 4 game**.  
 This project applies to the **EPITECH Duo Stumper**.
 
 
@@ -29,7 +29,7 @@ You can run the connect4 like this :
 
 
 ## Result 🚩
-The result of this project is a **perfect Connect4**.  
+The result of this project is a **perfect Connect 4**.  
 If you discover a **problem** or an **error**, don't hesitate to **create an issue** and **report it** to us as soon as possible.
 
 
